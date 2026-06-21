@@ -13,9 +13,6 @@ This project analyzes customer credit data to predict default risk using machine
 - Risk segmentation (High vs Low)
 - Interactive dashboard
 
-## 📊 Dashboard Preview
-(Add screenshot here)
-
 ## 🚀 How to Run
 1. Open analysis.ipynb
 2. Run all cells
